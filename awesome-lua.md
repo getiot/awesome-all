@@ -1,1 +1,1 @@
-# awesome-lua
+# Awesome Lua

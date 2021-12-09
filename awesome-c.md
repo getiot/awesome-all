@@ -1,1 +1,1 @@
-# awesome-c
+# Awesome C

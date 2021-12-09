@@ -1,1 +1,1 @@
-# awesome-maker
+# Awesome Maker

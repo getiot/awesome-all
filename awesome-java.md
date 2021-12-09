@@ -1,1 +1,1 @@
-# awesome-java
+# Awesome Java

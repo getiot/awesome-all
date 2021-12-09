@@ -1,1 +1,1 @@
-# awesome-wechat-miniapp
+# Awesome Wechat Miniapp
